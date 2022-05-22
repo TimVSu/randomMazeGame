@@ -1,0 +1,31 @@
+
+l
+java:S1128"QRemove this unnecessary import: java.lang classes are always implicitly imported.(šÆ¿ˆýÿÿÿÿ
+l
+java:S1128"QRemove this unnecessary import: java.lang classes are always implicitly imported.(Š‘…ûýÿÿÿÿ
+S	java:S106%"9Replace this use of System.out or System.err by a logger.(âÔ«åÿÿÿÿÿ
+S	java:S106'"9Replace this use of System.out or System.err by a logger.(ƒÇãˆúÿÿÿÿ
+n
+java:S3776ƒ"RRefactor this method to reduce its Cognitive Complexity from 49 to the 15 allowed.(Í…Âüûÿÿÿÿ
+T
+java:S1854‹"8Remove this useless assignment to local variable "rand".(šŸ«íøÿÿÿÿ
+V	java:S125V"<This block of commented-out lines of code should be removed.(ÆÌ¢Çüÿÿÿÿ
+:
+java:S2119‹"Save and re-use this "Random".(šŸ«íøÿÿÿÿ
+E
+java:S1481‹")Remove this unused "rand" local variable.(šŸ«íøÿÿÿÿ
+:
+java:S2119¤"Save and re-use this "Random".(šŸ«íøÿÿÿÿ
+T	java:S106´"9Replace this use of System.out or System.err by a logger.(¦¿Ä—úÿÿÿÿ
+T	java:S106¶"9Replace this use of System.out or System.err by a logger.(ƒÇãˆúÿÿÿÿ
+W	java:S125Å"<This block of commented-out lines of code should be removed.(—³¹¡ÿÿÿÿÿ
+J
+java:S1066;"/Merge this if statement with the enclosing one.(î¢ˆºþÿÿÿÿ
+J
+java:S1066A"/Merge this if statement with the enclosing one.(±„ââûÿÿÿÿ
+J
+java:S1066G"/Merge this if statement with the enclosing one.(Øê‹Þùÿÿÿÿ
+E
+java:S1066M"/Merge this if statement with the enclosing one.(±‚¬÷
+K
+java:S1066§"/Merge this if statement with the enclosing one.(¹À¼úùÿÿÿÿ

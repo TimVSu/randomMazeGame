@@ -1,0 +1,13 @@
+
+l
+java:S1128"QRemove this unnecessary import: java.lang classes are always implicitly imported.(Š‘…ûıÿÿÿÿ
+V
+java:S1128";Remove this unused import 'javax.swing.border.MatteBorder'.(»×õœÿÿÿÿÿ
+]
+java:S2184`"GCast one of the operands of this multiplication operation to a "float".(äó£
+b
+java:S2184a"GCast one of the operands of this multiplication operation to a "float".(ğù‡”ÿÿÿÿÿ
+]
+java:S2184b"GCast one of the operands of this multiplication operation to a "float".(ñòıø
+b
+java:S2184c"GCast one of the operands of this multiplication operation to a "float".(Ÿ€Íıúÿÿÿÿ
